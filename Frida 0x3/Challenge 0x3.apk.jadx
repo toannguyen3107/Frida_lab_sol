@@ -1,0 +1,62 @@
+{
+  "projectVersion": 1,
+  "files": [
+    "Challenge 0x3.apk"
+  ],
+  "treeExpansions": [
+    [
+      "Source code",
+      "Challenge 0x3.apk"
+    ],
+    [
+      "com",
+      "Source code",
+      "Challenge 0x3.apk"
+    ],
+    [
+      "ad2001.frida0x3",
+      "com",
+      "Source code",
+      "Challenge 0x3.apk"
+    ],
+    [
+      "com.ad2001.frida0x3.MainActivity",
+      "ad2001.frida0x3",
+      "com",
+      "Source code",
+      "Challenge 0x3.apk"
+    ]
+  ],
+  "codeData": {
+    "comments": [],
+    "renames": []
+  },
+  "openTabs": [
+    {
+      "type": "class",
+      "tabPath": "com.ad2001.frida0x3.MainActivity",
+      "subPath": "java",
+      "caret": 1424,
+      "view": {
+        "x": 0,
+        "y": 299
+      },
+      "active": false
+    },
+    {
+      "type": "class",
+      "tabPath": "com.ad2001.frida0x3.Checker",
+      "subPath": "java",
+      "caret": 182,
+      "view": {
+        "x": 0,
+        "y": 0
+      },
+      "active": true
+    }
+  ],
+  "cacheDir": "C:\\Users\\minht\\AppData\\Local\\skylot\\jadx\\cache\\projects\\Challenge 0x3-2c529bee654b1bf38125f19ba32c1c53",
+  "enableLiveReload": false,
+  "searchHistory": [],
+  "pluginOptions": {}
+}
